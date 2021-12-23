@@ -1,15 +1,15 @@
 header:
-  - title:      ❤️
-    url:        /cnt
+  - title:      砸瓦鲁多
+    url:        /world
   - title:      随笔
     url:        /
   - title:      笔记
-    url:        /notes/overview/about
+    url:        /notes/overview/about.html
     key:        docs
   - title:      归档
     url:        /archive.html
   - title:      关于
-    url:        /notes/overview/about
+    url:        /notes/overview/about.html
   - title:      Trilium
     url:        /lilac_trilium
   - title:      GitHub
@@ -20,18 +20,18 @@ notes_bar:
   - title:      Overview
     children:
       - title:  简介
-        url:    /notes/overview/about
+        url:    /notes/overview/about.html
       - title:  编写规范
-        url:    /notes/overview/specification
+        url:    /notes/overview/specification.html
       - title:  Latex常用公式
-        url:    /notes/overview/latex-formula
+        url:    /notes/overview/latex-formula.html
       - title:  Markdown语法
-        url:    /notes/overview/markdown-cheatsheet
+        url:    /notes/overview/markdown-cheatsheet.html
 
   - title:      快速启动
     children:
       - title:  在CentOS8上启动服务
-        url:    /notes/getting_start/install-nginx-and-config-ssl-on-centos
+        url:    /notes/getting_start/install-nginx-and-config-ssl-on-centos.html
 
 layouts:
   - title: Layouts
